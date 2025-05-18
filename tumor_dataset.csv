@@ -1,0 +1,6 @@
+Blood_Pressure,Cholesterol,Blood_Glucose,Family_History,Age,Gender,Triglycerides,HbA1c,Headaches,Seizures,Vision_Problems,Nausea,Cognitive_Changes,Motor_Symptoms,Speech_Problems,Balance_Problems,Hearing_Loss,Has_Tumor
+130,220,110,Yes,45,Male,180,6.1,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes
+120,180,90,No,34,Female,150,5.5,No,No,No,No,No,No,No,No,No,No
+140,200,130,Yes,60,Male,210,7,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+110,170,85,No,29,Female,140,5.3,No,No,No,No,No,No,No,No,No,No
+140,180,120,No,25,Male,140,7.1,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes
